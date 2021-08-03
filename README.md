@@ -12,7 +12,7 @@ This is a Application of interactive mulitimedia design subject code University 
 A Simple Flappy Bird Game made in Adobe Animate CC using the programming language ActionScript 3.0 (AS3)'I used Adobe Animate CC 2020 for develop that project. 
 <br>
 <h3>How to use</h3>
-Download the project zip file or clone it and open the .fla file in Flash. You can run it.
+Download the project zip file or clone it and open the .fla file in adobe animate. You can run it.
 <br>
 <h3>Licence info</h3>
 you can use this code for education purposes
