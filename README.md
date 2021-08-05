@@ -14,6 +14,12 @@ A Simple Flappy Bird Game made in Adobe Animate CC using the programming languag
 <h3>How to use</h3>
 Download the project zip file or clone it and open the .fla file in adobe animate. You can run it.
 <br>
+
+<h3>Resources</h3>
+  * http://pixelstreetstudios.com/flash/flash-cs4-topics/
+  <br>
+  * http://pixelstreetstudios.com/flash/flash-cs4-actionscript-3-0-topics/
+<br>
 <h3>Licence info</h3>
 you can use this code for education purposes
 
