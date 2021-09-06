@@ -4,7 +4,9 @@ simple actionscript game using adobe animate
 <br>
 <hr>
 <br>
+<a href="https://www.youtube.com/watch?v=lZsfMdTJDuo">
 <img src="https://user-images.githubusercontent.com/75051796/128034535-4e1cb1df-8ea3-4896-bd1e-01031a32c676.jpg" alt="Floppy bird game">
+ </a>
 <br>
 <hr>
 <br>
